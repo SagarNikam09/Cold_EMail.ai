@@ -29,8 +29,8 @@ Follow these simple steps to get the Cold Email Generator up and running on your
 First, clone the repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/your-username/cold-email-generator.git
-cd cold-email-generator
+git clone https://github.com/SagarNikam09/Cold_EMail.ai.git
+cd cold_Email.ai
 ```
 
 ### 2. Install Dependencies
